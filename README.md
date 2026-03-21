@@ -37,7 +37,7 @@ The dataset contains **event-level user activity logs**, where each row represen
 
 ## 🛠️ Tools & Technologies
 
-* **Python (Pandas, Matplotlib)** → Data cleaning & analysis
+* **Python (Pandas, Matplotlib, Plotly)** → Data cleaning & analysis
 * **SQL (SQLite)** → Data modeling
 * **Jupyter Notebook** → Development environment
 
