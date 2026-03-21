@@ -214,6 +214,7 @@ This project demonstrates how user behavior data can be transformed into a pract
 ## 👨‍💻 Author
 
 **Michael Okposo**
+
 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 | 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 | 𝐏𝐲𝐭𝐡𝐨𝐧 | 𝐒𝐐𝐋 | 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 | 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐄𝐱𝐜𝐞𝐥 |𝐏𝐡𝐚𝐫𝐦𝐚𝐜𝐢𝐬𝐭
 
 ---
