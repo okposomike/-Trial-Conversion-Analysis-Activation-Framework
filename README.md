@@ -1,5 +1,3 @@
----
-
 # 📊 Trial Conversion Analysis & Activation Framework
 
 ## 🧠 Project Overview
@@ -175,15 +173,23 @@ Activated users showed significantly higher conversion rates.
 
 ---
 
-### 🔹 9. Visualization
+## 📊 Key Visualizations
 
-Key visualizations:
+### 🔹 Activation vs Conversion
 
-* Conversion rate: Activated vs Non-Activated
-* Conversion rate vs Number of goals completed
-* Early engagement vs conversion
+![Activation vs Conversion](visuals/activation_vs_conversion.png)
 
-📌 *Why:* Makes insights clear and actionable.
+---
+
+### 🔹 Conversion vs Goals Completed
+
+![Goals vs Conversion](visuals/goals_vs_conversion.png)
+
+---
+
+### 🔹 Early Engagement vs Conversion
+
+![Early Engagement](visuals/early_engagement.png)
 
 ---
 
