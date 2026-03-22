@@ -177,19 +177,29 @@ Activated users showed significantly higher conversion rates.
 
 ### 🔹 Activation vs Conversion
 
-![Activation vs Conversion](visuals/activation_vs_conversion.png)
+<img width="1243" height="520" alt="Screenshot 2026-03-21 213424" src="https://github.com/user-attachments/assets/01eceacc-11f1-44f5-8f5a-3c919feb5643" />
+
 
 ---
 
 ### 🔹 Conversion vs Goals Completed
 
-![Goals vs Conversion](visuals/goals_vs_conversion.png)
+<img width="1239" height="535" alt="Screenshot 2026-03-21 213317" src="https://github.com/user-attachments/assets/f83fd52c-0291-454c-af46-39a8022c6c99" />
+
 
 ---
 
 ### 🔹 Early Engagement vs Conversion
 
-![Early Engagement](visuals/early_engagement.png)
+
+<img width="1250" height="423" alt="Screenshot 2026-03-21 235930" src="https://github.com/user-attachments/assets/a634723b-c694-46da-ade0-482b11c4e6ae" />
+
+---
+
+### 🔹 Top activities vs Conversion
+
+<img width="1237" height="413" alt="Screenshot 2026-03-21 213527" src="https://github.com/user-attachments/assets/3c9b8c4e-eb44-40e6-b31c-77a420079c95" />
+
 
 ---
 
